@@ -1,0 +1,33 @@
+2013-10-22 15:09:27: ----- ：任务 'sublime settings'：计算机 'ITYJDEMO' 上的分析操作已由 User 所启动 (GoodSync v 9.5.5.5) -----
+2013-10-22 15:09:27: D:\ZZ.GreenTools\sublime text 2\Data\Packages\User =PropDels=> D:\99.Workspace\some-settings\sublime text 2, CopyCreateTime
+2013-10-22 15:09:27: 左侧: State file does not exist: D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\_gsdata_\_file_state._gs
+2013-10-22 15:09:27: 左侧: 未发现状态文件，新建状态文件
+2013-10-22 15:09:27: 左侧：文件： 12 (已排除 0)。文件夹： 3 (已排除 0)。 D: NTFS, 可用空间：94.0 GB，总计空间：138 GB
+2013-10-22 15:09:27: 右侧: State file does not exist: D:\99.Workspace\some-settings\sublime text 2\_gsdata_\_file_state._gs
+2013-10-22 15:09:27: 右侧: 未发现状态文件，新建状态文件
+2013-10-22 15:09:27: 右侧：文件： 0 (已排除 0)。文件夹： 0 (已排除 0)。 D: NTFS, 可用空间：94.0 GB，总计空间：138 GB
+2013-10-22 15:09:27: 变更：15， 冲突：0， 复制时间：0， 复制状态：0/0， 错误： 0
+2013-10-22 15:09:27: Left to Right: Copy File: 15 
+2013-10-22 15:09:27: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2013-10-22 15:09:27: 
+2013-10-22 15:09:31: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2013-10-22 15:09:31: ===== ：任务 'sublime settings'：同步已被 User 所启动，位于计算机 'ITYJDEMO' =====
+2013-10-22 15:09:31: D:\ZZ.GreenTools\sublime text 2\Data\Packages\User =PropDels=> D:\99.Workspace\some-settings\sublime text 2, CopyCreateTime
+2013-10-22 15:09:31: 创建文件夹 'D:\99.Workspace\some-settings\sublime text 2\Package Control.cache'
+2013-10-22 15:09:31: 创建文件夹 'D:\99.Workspace\some-settings\sublime text 2\SideBarEnhancements'
+2013-10-22 15:09:31: 创建文件夹 'D:\99.Workspace\some-settings\sublime text 2\SideBarEnhancements\Open With'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Default (Linux).sublime-keymap' -> 'D:\99.Workspace\some-settings\sublime text 2\Default (Linux).sublime-keymap'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Default (OSX).sublime-keymap' -> 'D:\99.Workspace\some-settings\sublime text 2\Default (OSX).sublime-keymap'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Default (Windows).sublime-keymap' -> 'D:\99.Workspace\some-settings\sublime text 2\Default (Windows).sublime-keymap'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Nodejs.sublime-settings' -> 'D:\99.Workspace\some-settings\sublime text 2\Nodejs.sublime-settings'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Package Control.cache\ad7758d143e99a76034aad71ae2a1f3b' -> 'D:\99.Workspace\some-settings\sublime text 2\Package Control.cache\ad7758d143e99a76034aad71ae2a1f3b'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Package Control.cache\ad7758d143e99a76034aad71ae2a1f3b.info' -> 'D:\99.Workspace\some-settings\sublime text 2\Package Control.cache\ad7758d143e99a76034aad71ae2a1f3b.info'
+2013-10-22 15:09:31: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Package Control.last-run' -> 'D:\99.Workspace\some-settings\sublime text 2\Package Control.last-run'
+2013-10-22 15:09:32: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Package Control.sublime-settings' -> 'D:\99.Workspace\some-settings\sublime text 2\Package Control.sublime-settings'
+2013-10-22 15:09:32: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Preferences.sublime-settings' -> 'D:\99.Workspace\some-settings\sublime text 2\Preferences.sublime-settings'
+2013-10-22 15:09:32: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\RubyTest.last-run' -> 'D:\99.Workspace\some-settings\sublime text 2\RubyTest.last-run'
+2013-10-22 15:09:32: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\Side Bar.sublime-settings' -> 'D:\99.Workspace\some-settings\sublime text 2\Side Bar.sublime-settings'
+2013-10-22 15:09:32: 新建复制 'D:\ZZ.GreenTools\sublime text 2\Data\Packages\User\SideBarEnhancements\Open With\Side Bar.sublime-menu' -> 'D:\99.Workspace\some-settings\sublime text 2\SideBarEnhancements\Open With\Side Bar.sublime-menu'
+2013-10-22 15:09:32: 项目同步未必： 15，错误： 0
+2013-10-22 15:09:32: ===== ：同步完毕。时间：00:00:01，速度： 1.04 MB/s (29.4 KB/s) =====
+2013-10-22 15:09:32: 

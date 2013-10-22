@@ -1,0 +1,13 @@
+ {
+
+             "save_first": true,
+
+             "node_command": "C:\\Runtime\\Node\\node.exe",
+
+             "npm_command": "C:\\Runtime\\Node\\npm.cmd",
+
+             "expert_mode": true,
+
+             "ouput_to_new_tab": false
+
+}
